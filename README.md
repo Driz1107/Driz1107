@@ -3,7 +3,7 @@
 
 <h2 align="center">Hi 👋, I'm Dương Trần</h2>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A young boy with a passion for becoming a data analyst </h3>
 </p>
 
 > ✍ I'm a student at Duy Tan University (https://duytan.edu.vn/).
